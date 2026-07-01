@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0150/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經海印道場懺儀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1470.xml
+    old_id: X74n1470
+hash: sha256:2cfb2056081847caaf030e4a962b0f7a6fe1be352b4131a440b41de942ebd735
